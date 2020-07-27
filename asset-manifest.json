@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/no-capes/comingsoonpagereact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/no-capes/comingsoonpagereact/static/js/main.c5e586f3.chunk.js",
+    "main.js.map": "/no-capes/comingsoonpagereact/static/js/main.c5e586f3.chunk.js.map",
+    "runtime-main.js": "/no-capes/comingsoonpagereact/static/js/runtime-main.e43ff3c7.js",
+    "runtime-main.js.map": "/no-capes/comingsoonpagereact/static/js/runtime-main.e43ff3c7.js.map",
+    "static/js/2.ae746d4d.chunk.js": "/no-capes/comingsoonpagereact/static/js/2.ae746d4d.chunk.js",
+    "static/js/2.ae746d4d.chunk.js.map": "/no-capes/comingsoonpagereact/static/js/2.ae746d4d.chunk.js.map",
+    "index.html": "/no-capes/comingsoonpagereact/index.html",
+    "precache-manifest.512b4e79416711a0f919bcb6e65d2390.js": "/no-capes/comingsoonpagereact/precache-manifest.512b4e79416711a0f919bcb6e65d2390.js",
+    "service-worker.js": "/no-capes/comingsoonpagereact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/no-capes/comingsoonpagereact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ae746d4d.chunk.js.LICENSE.txt": "/no-capes/comingsoonpagereact/static/js/2.ae746d4d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/no-capes/comingsoonpagereact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e43ff3c7.js",
+    "static/js/2.ae746d4d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c5e586f3.chunk.js"
+  ]
+}
