@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/comingsoonpagereact/static/css/main.a03cabeb.chunk.css",
-    "main.js": "/comingsoonpagereact/static/js/main.8d0d34d4.chunk.js",
-    "main.js.map": "/comingsoonpagereact/static/js/main.8d0d34d4.chunk.js.map",
+    "main.js": "/comingsoonpagereact/static/js/main.e9d173b7.chunk.js",
+    "main.js.map": "/comingsoonpagereact/static/js/main.e9d173b7.chunk.js.map",
     "runtime-main.js": "/comingsoonpagereact/static/js/runtime-main.c740c5b4.js",
     "runtime-main.js.map": "/comingsoonpagereact/static/js/runtime-main.c740c5b4.js.map",
-    "static/js/2.a72184cd.chunk.js": "/comingsoonpagereact/static/js/2.a72184cd.chunk.js",
-    "static/js/2.a72184cd.chunk.js.map": "/comingsoonpagereact/static/js/2.a72184cd.chunk.js.map",
+    "static/js/2.21611316.chunk.js": "/comingsoonpagereact/static/js/2.21611316.chunk.js",
+    "static/js/2.21611316.chunk.js.map": "/comingsoonpagereact/static/js/2.21611316.chunk.js.map",
     "index.html": "/comingsoonpagereact/index.html",
-    "precache-manifest.61ed225d4d1a97ec74867e0e9242b745.js": "/comingsoonpagereact/precache-manifest.61ed225d4d1a97ec74867e0e9242b745.js",
+    "precache-manifest.c4c6029294cdcdf6abddc3034b0e1528.js": "/comingsoonpagereact/precache-manifest.c4c6029294cdcdf6abddc3034b0e1528.js",
     "service-worker.js": "/comingsoonpagereact/service-worker.js",
     "static/css/main.a03cabeb.chunk.css.map": "/comingsoonpagereact/static/css/main.a03cabeb.chunk.css.map",
-    "static/js/2.a72184cd.chunk.js.LICENSE.txt": "/comingsoonpagereact/static/js/2.a72184cd.chunk.js.LICENSE.txt"
+    "static/js/2.21611316.chunk.js.LICENSE.txt": "/comingsoonpagereact/static/js/2.21611316.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c740c5b4.js",
-    "static/js/2.a72184cd.chunk.js",
+    "static/js/2.21611316.chunk.js",
     "static/css/main.a03cabeb.chunk.css",
-    "static/js/main.8d0d34d4.chunk.js"
+    "static/js/main.e9d173b7.chunk.js"
   ]
 }
